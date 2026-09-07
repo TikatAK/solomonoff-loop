@@ -155,7 +155,9 @@ direction in AI research, and I tried to turn my own thoughts into this
 framework. My perspective is inevitably limited and my abilities modest — this
 is a humble contribution, and it certainly contains mistakes and oversights. If
 you spot a problem, please point it out (opening an Issue is the best way); I'll
-welcome the correction with gratitude.
+welcome the correction with gratitude. This document was written with the
+assistance of DeepSeek V4 Pro; if it proves of no help to you, please tell me
+why — understanding where it goes wrong is how I keep learning.
 
 ## License
 
