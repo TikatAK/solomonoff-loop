@@ -148,6 +148,15 @@ Self-Improvement of Large Language Models.
 https://github.com/TikatAK/solomonoff-loop
 ```
 
+## A note from the author
+
+I'm a college student. I noticed that self-improvement is becoming a central
+direction in AI research, and I tried to turn my own thoughts into this
+framework. My perspective is inevitably limited and my abilities modest — this
+is a humble contribution, and it certainly contains mistakes and oversights. If
+you spot a problem, please point it out (opening an Issue is the best way); I'll
+welcome the correction with gratitude.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).

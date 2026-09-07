@@ -99,6 +99,10 @@ Self-Improvement of Large Language Models.
 https://github.com/TikatAK/solomonoff-loop
 ```
 
+## 作者的话
+
+我只是一名普通的大学生。我注意到自我进化正成为当前 AI 研究的一个重要方向，于是尝试把自己的思考整理成这个框架。我的目光难免短浅，能力也有限——这只是一份微薄的努力，其中难免有错误和疏漏。如果你发现了问题，欢迎直接指出（在 Issue 里提出来是最好的方式），我会虚心接受并改进。
+
 ## 许可证
 
 MIT —— 见 [LICENSE](LICENSE)。
